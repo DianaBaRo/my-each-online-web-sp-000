@@ -10,6 +10,6 @@ def my_each (collection)# put argument(s) here
 
     collection
   else
-    puts "No block!"
+    print "No block!"
   end
 end
